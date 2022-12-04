@@ -1,0 +1,3 @@
+# Insert_into_wave_file
+
+waveファイルの間に２つ目のwaveファイルを挿入するためのメソッドを提供します。
